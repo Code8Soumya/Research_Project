@@ -1,8 +1,8 @@
 # dataset path
-path: E:/Deep_Learing/Master/yolov9-main/yolov9-main/
-train: ./dataset/images/train
-val: ./dataset/images/val
-test: ./dataset/images/test
+path: ./usw_dataset
+train: images/train
+val: images/val
+test: images/test
 
 # number of classes
 nc: 5
